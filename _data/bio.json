@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "Corey Mutnik",
+    "label": "Undergraduate Student",
+    "picture": "https://cmutnik.github.io/images/profilepic.jpg",
+    "email": "cmutnik@hawaii.edu",
+    "phone": "",
+    "website": "https://cmutnik.github.io",
+    "summary": "In Fall 2017, I will begin working on a PhD in Physics/Astrophysics.",
+    "location": {
+      "address": "2020 Makiki St. Honolulu, HI 96822",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [{
+      "network": "github",
+      "username": "cmutnik",
+      "url": "http://github.com/cmutnik"
+    }, {
+      "network": "linkedin",
+      "username": "cmutnik",
+      "url": "http://linkedin.com/in/cmutnik"
+    }]
+  },
+  "interests": [{
+    "name": "Physics",
+    "keywords": ["Open Power Quality"]
+  }, {
+    "name": "Astrohysics",
+    "keywords": []
+  }, {
+    "name": "Sensor Networks",
+    "keywords": []
+  }],
+  "skills": [{
+    "name": "Languages and Frameworks",
+    "level": "",
+    "keywords": ["C/C++", "Python", "Shell Scripting","C#", "HTML", "CSS", "Javascript" ]
+  }, {
+    "name": "Toolsets/OS",
+    "level": "",
+    "keywords": ["Linux", "Unix", "Gnuplot", "Mongo"]
+  }],
+  "education": [{
+    "institution": "University of Hawaii, Honolulu, HI",
+    "area": "Physics",
+    "studyType": "B.S.",
+    "startDate": "2014-08-01",
+    "endDate": "2016-12-01",
+    "gpa": "",
+    "courses": []
+  }, {
+    "institution": "Florida International University, Miami, FL",
+    "area": "Physics",
+    "studyType": "B.S.",
+    "startDate": "2011-05-01",
+    "endDate": "2014-04-01",
+    "gpa": "",
+    "courses": []
+  }, {
+    "institution": "University of Central Florida, Orlando, FL",
+    "area": "Aerospace Engineering and Physics",
+    "studyType": "B.S.",
+    "startDate": "2009-08-01",
+    "endDate": "2010-12-01",
+    "gpa": "",
+    "courses": []
+  }],
+  "work": [{
+    "company": "Institute for Astronomy, UH Manoa",
+    "position": "Student Assistant",
+    "website": "",
+    "startDate": "2016-07-01",
+    "endDate": "Present",
+    "summary": "ATLAS telescope project.",
+    "highlights": ["Designed and developed web-tools.", "Collaborated on asteroid research."]
+  }, {
+    "company": "Institute for Astronomy, UH Manoa",
+    "position": "Undergraduate Researcher Aid",
+    "website": "",
+    "startDate": "2015-06-01",
+    "endDate": "2016-07-31",
+    "summary": "Spectroscopic classification of young stars.",
+    "highlights": ["Wrote observing proposal.", "Awarded telescope time, on SpeX.", "Collaborated on publication.", "Learned Python.", "Awarded funding for my research."]
+  }, {
+    "company": "Physics Department, UH Manoa",
+    "website": "http://www.phys.hawaii.edu/~anita/new/index.html",
+    "position": "Scientific Instrument Technician",
+    "startDate": "2015-06-01",
+    "endDate": "2015-08-31",
+    "summary": "Fabrication of parts for the ANITA project.",
+    "highlights": ["Machine shop experience.", "Soldering and other handy skills."]
+  }, {
+    "company": "Physics Department, UH Manoa",
+    "website": "",
+    "position": "Physics Tutor",
+    "startDate": "2015-04-01",
+    "endDate": "2015-08-31",
+    "summary": "Tutored students in undergraduate physics courses.",
+    "highlights": ["Teaching experience."]
+    }, {
+    "company": "Physics Department, Florida International University",
+    "website": "",
+    "position": "Learning Assistant",
+    "startDate": "2014-08-01",
+    "endDate": "2014-12-31",
+    "summary": "Assisted in teaching undergraduate physics labs.",
+    "highlights": ["Teaching experience.", "Learned to set up labs."]
+      }, {
+    "company": "Miller School of Medicine, University of Miami",
+    "website": "",
+    "position": "Neurology Internship",
+    "startDate": "2012",
+    "endDate": "2012",
+    "summary": "Wrote an algorithm that identified and related variables pertaining to carotid artery wall shear stress.",
+    "highlights": ["Experience outside of primary field.", "Algorithm development and testing."] 
+        } ],
+  "volunteer": [{
+    "organization": "Sigma Pi Sigma Physics Honors Society, University of Hawaii",
+    "position": "Officer",// WHATS MY TITLE?
+    "startDate": "2016-05-01",
+    "endDate": "Present",
+    "summary": "",//    "summary": "Design and hosting of website.",
+    "highlights": []
+  }, {
+    "organization": "American Cetacean Society, University of Hawaii",
+    "website": "",
+    "position": "",//    "position": "Member",
+    "startDate": "2014-08-01",
+    "endDate": "2016-12-01",
+    "summary": "",
+    "highlights": ["Organized events.", "Accountable for safety during excursions."]
+  }, {
+    "organization": "Astronomy Club, Florida International University",
+    "website": "",
+    "position": "Officer",//    "position": "Member",//    Officer/Member?
+    "startDate": "2011-05-01",
+    "endDate": "2014-04-01",
+    "summary": "",//    "summary": "Camping",
+    "highlights": ["Learned to use amateur astronomer gear.", "Organized events."]
+    }],
+  "references": [{
+    "name": "Available upon request",
+    "reference": ""
+  }]
+}
